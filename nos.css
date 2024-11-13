@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+header{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+main{
+    text-align: justify;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(119, 72, 119) ;
+}
